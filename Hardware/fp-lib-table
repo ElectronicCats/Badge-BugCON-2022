@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "art")(type "KiCad")(uri "C:/Users/DELL/OneDrive/Documentos/GitHub/bugCON-2022/art.pretty")(options "")(descr ""))
+  (lib (name "BugCON")(type "KiCad")(uri "${KIPRJMOD}/BugCON.pretty")(options "")(descr ""))
+)
