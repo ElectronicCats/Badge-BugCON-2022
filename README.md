@@ -11,6 +11,7 @@ El nuevo orden entrega esta insignia a sus seguidores mas asiduos, escucha nuest
 - LEDs
 - Microfono
 - Buzzer o bocina
+- Un poco, una cucharadita de Machine Learning, gracias a [EdgeImpulse](https://www.edgeimpulse.com/)
 
 ## Links
 
@@ -24,7 +25,7 @@ El nuevo orden entrega esta insignia a sus seguidores mas asiduos, escucha nuest
 
 ## License
 
-Electronic Cats hemos creado un badge electronico para todos los asistentes, bienvenidos a la #badgelive
+Electronic Cats hemos creado un badge electronico para BugCON2022 en la CDMX, bienvenidos a la #badgelive
 
 Electronic Cats invests time and resources providing this open source design, please support Electronic Cats and open-source hardware by purchasing products from Electronic Cats!
 
