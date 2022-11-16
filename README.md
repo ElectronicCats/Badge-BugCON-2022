@@ -2,7 +2,7 @@
 
 ![BUGCON](https://www.bugcon.org/img/logo_bugcon_2022.jpg)
 
-El nuevo orden entrega esta insignia a sus seguidores mas asiduos, escucha nuestras instrucciones, dinos los que deseas y observa como la seguridad solo es un mito!  
+El nuevo orden entrega esta insignia a sus seguidores mas asiduos, escucha nuestras instrucciones, dinos lo que deseas y observa como la seguridad solo es un mito!  
 
 ## Tecnologias utilizadas
 
