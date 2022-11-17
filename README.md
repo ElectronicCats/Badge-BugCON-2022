@@ -6,7 +6,7 @@ El nuevo orden entrega esta insignia a sus seguidores mas asiduos, escucha nuest
 
 ## Como Iniciar
 - Conecta por medio de USB de Badge
-- Utiliza una terminal serial para acceder al badge puedes usar "monitor" en Linux, Putty en Windows o el Monitor Serial en el Arduino IDE
+- Utiliza una terminal serial para acceder al badge puedes usar "monitor" en Linux, Putty en Windows
 - Selecciona el puerto serial correcto a 115200 baudios
 - Observa como inicia la terminal
 - Puedes help para acceder a mas comandos
