@@ -9,7 +9,7 @@ El nuevo orden entrega esta insignia a sus seguidores mas asiduos, escucha nuest
 - Utiliza una terminal serial para acceder al badge puedes usar "monitor" en Linux, Putty en Windows
 - Selecciona el puerto serial correcto a 115200 baudios
 - Observa como inicia la terminal
-- Puedes help para acceder a mas comandos
+- Puedes escribir "help" para acceder a mas comandos
 
 ## Tecnologias utilizadas
 
