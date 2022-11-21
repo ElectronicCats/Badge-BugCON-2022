@@ -48,6 +48,8 @@ static FILE *f = nullptr;
 // Audio PIN is to match some of the design guide shields. 
 #define AUDIO_PIN 28  // you can change this to whatever you like
 
+#define AMP_EN 5 //Enable Ampli
+
 uint32_t wav_position = 0;
 
 uint32_t ChunkSize = 0;                 // this is the actual sound data size
@@ -333,6 +335,8 @@ void setup() {
   
   // put your setup code here, to run once:
   Serial.begin(115200);
+  pinMode(AMP_EN,OUTPUT);
+  digitalWrite(AMP_EN,LOW); //Disable Ampli
   MassStorage.begin();
   // If you do not want to wait for Serial Monitor to load then use a long delay here.
   // Found a delay helps if you want to capture the initial serial output.
@@ -341,6 +345,7 @@ void setup() {
   Serial.println("\r\nMassStorage mounted");
   Serial.println("");
   Serial.flush();
+  digitalWrite(AMP_EN,HIGH); // Enable ampli
   //writeContents();
   readContents();
   
