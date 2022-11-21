@@ -11,6 +11,10 @@ El nuevo orden entrega esta insignia a sus seguidores mas asiduos, escucha nuest
 - Observa como inicia la terminal
 - Puedes escribir "help" para acceder a mas comandos
 
+## Deseas programar con Arduino?
+
+Visita la [Wiki del proyecto](https://github.com/ElectronicCats/Badge-BugCON-2022/wiki)
+
 ## Tecnologias utilizadas
 
 - RP2040
