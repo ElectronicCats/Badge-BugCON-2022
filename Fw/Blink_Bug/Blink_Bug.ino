@@ -26,6 +26,8 @@ int leds[4] = {10, 25, 26, 8};   // 5,8,9, 20 rp pi Mbed Os
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
  for (int i = 0; i < 5; i++)pinMode(leds[i], OUTPUT);
+ pinMode(AMP_EN,OUTPUT);
+ digitalWrite(AMP_EN,LOW); //Disable Ampli
 }
 
 // the loop function runs over and over again forever
